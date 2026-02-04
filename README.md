@@ -65,50 +65,15 @@ const michelangelo = {
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michelangelo-Costa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelangelo-Costa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michelangelo-Costa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![WebII Helptickets](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=WebII-SI2023-main-helptickets-ui&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/WebII-SI2023-main-helptickets-ui)
-[![Doença Cardíaca ML](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=doenca-cardiaca-gravidade-ml&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/doenca-cardiaca-gravidade-ml)
-
-[![Projeto Tradutor](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=Projeto_Tradutor&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/Projeto_Tradutor)
-[![Lista Rápida](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=Lista-Rapida&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/Lista-Rapida)
-
-</div>
-
-<br>
-
 ## 🤝 Conecte-se comigo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://michelangelo-costa.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://https://michelangelo-costa.github.io/Portfolio-Styling/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelangelo-costa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelangeloed@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michelangelo-Costa)
 
-</div>
-
-<br>
-
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michelangelo-Costa&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
 <br>
@@ -122,6 +87,6 @@ const michelangelo = {
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-*"Transformando ideias em experiências online incríveis"* ✨
+*"Transformando ideias em experiências online incríveis"* 
 
 </div>
