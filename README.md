@@ -82,8 +82,11 @@ const michelangelo = {
 
 <div align="center">
 
-[![GymPlanner API](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=GymPlanner-API&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/GymPlanner-API)
+[![WebII Helptickets](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=WebII-SI2023-main-helptickets-ui&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/WebII-SI2023-main-helptickets-ui)
 [![Doença Cardíaca ML](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=doenca-cardiaca-gravidade-ml&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/doenca-cardiaca-gravidade-ml)
+
+[![Projeto Tradutor](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=Projeto_Tradutor&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/Projeto_Tradutor)
+[![Lista Rápida](https://github-readme-stats.vercel.app/api/pin/?username=Michelangelo-Costa&repo=Lista-Rapida&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Michelangelo-Costa/Lista-Rapida)
 
 </div>
 
