@@ -2,7 +2,7 @@
   
 # 👋 Olá, eu sou Michelangelo Costa!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Fullstack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+JavaScript+%26+TypeScript+%F0%9F%92%9B;Transformando+ideias+em+experi%C3%AAncias+incr%C3%ADveis+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Fullstack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+JavaScript+%26+TypeScript+%F0%9F%92%9B)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MichaelKonoworski/MichaelKonoworski/main/assets/line.gif" width="100%">
 
@@ -69,7 +69,7 @@ const michelangelo = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://https://michelangelo-costa.github.io/Portfolio-Styling/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://michelangelo-costa.github.io/Portfolio-Styling/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelangelo-costa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelangeloed@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michelangelo-Costa)
