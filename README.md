@@ -1,136 +1,91 @@
-import type { Work, Education } from "@/types";
-import {
-  type IconType,
-  ReactIcon,
-  TypeScriptIcon,
-  JavaScriptIcon,
-  TailwindIcon,
-  ExpressIcon,
-  NodeIcon,
-  ViteIcon,
-  NextJSIcon,
-  PostgreSQLIcon,
-  FigmaIcon,
-  DockerIcon,
-  PythonIcon,
-  GitIcon,
-  PrismaIcon,
-  HTML5Icon,
-  CSS3Icon,
-  FastifyIcon,
-  JWTIcon,
-  MongoDBIcon,
-  MySQLIcon,
-  LinuxIcon,
-  SwaggerIcon,
-  InsomniaIcon,
-} from "@/lib/icons";
+<div align="center">
 
-export const arrWorks: Work[] = [
-  {
-    company: "PET-Saúde: Inovação e Saúde Digital no SUS",
-    role: "Full Stack Developer",
-    duration: "2025 - Presente",
-    logo: "/src/works/petsaude.webp",
-    about:
-      "Desenvolvedor no PET-Saúde/I&SD, programa em parceria entre a UNIFESSPA e o Ministério da Saúde, com foco na transformação digital do SUS, participando de iniciativas de inovação e desenvolvimento de soluções para a saúde pública.",
-  },
-  {
-    company: "Exception Jr",
-    role: "Front-end Developer",
-    duration: "nov de 2023 - jul de 2024",
-    logo: "/src/works/exceptionjr.webp",
-    about:
-      "Na Exception, atuei como desenvolvedor front-end, contribuindo para a criação de soluções web modernas. Minhas responsabilidades envolveram o desenvolvimento de interfaces responsivas e componentizadas.",
-  },
-  {
-    company: "Doutor PC",
-    role: "Suporte de T.I (Estágio)",
-    duration: "mai de 2025 - set de 2025",
-    logo: "/src/works/doutorpc_logo.jpg",
-    about:
-      "Estágio em Suporte de T.I — triagem e diagnóstico de incidentes de hardware e software; atendimento técnico e suporte ao usuário.",
-  },
-];
+# Michelangelo Costa
 
-type SkillType = {
-  icon: IconType;
-  name: string;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Sistemas+de+Informa%C3%A7%C3%A3o+%40+UNIFESSPA;Apaixonado+por+TypeScript+%26+Node.js)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## Sobre mim
+
+```javascript
+const michelangelo = {
+    location: "Marabá, PA 📍",
+    education: "Sistemas de Informação @ UNIFESSPA",
+    currentRole: "Full Stack Developer @ PET-Saúde Digital",
+    building: ["APIs REST", "SPAs", "sistemas de saúde pública"],
+    funFact: "Transformo café em código ☕ → 💻"
 };
+```
 
-export type SkillCategory = {
-  label: string;
-  skills: SkillType[];
-};
+- 🎓 Estudante de **Sistemas de Informação** na UNIFESSPA
+- 🔬 Full Stack Developer no **PET-Saúde Digital** (UNIFESSPA × Ministério da Saúde)
+- 💼 Ex-Desenvolvedor Front-end na **Exception Jr**
+- 📚 Ex-Monitor de **Programação II (Java/POO)**
+- 🌱 Aprofundando em **arquitetura de APIs, Docker e DevOps**
 
-export const skillCategories: SkillCategory[] = [
-  {
-    label: "Linguagens",
-    skills: [
-      { icon: TypeScriptIcon, name: "TypeScript" },
-      { icon: JavaScriptIcon, name: "JavaScript" },
-      { icon: PythonIcon, name: "Python" },
-    ],
-  },
-  {
-    label: "Frontend",
-    skills: [
-      { icon: HTML5Icon, name: "HTML5" },
-      { icon: CSS3Icon, name: "CSS3" },
-      { icon: ReactIcon, name: "React" },
-      { icon: NextJSIcon, name: "Next.js" },
-      { icon: ViteIcon, name: "Vite" },
-      { icon: TailwindIcon, name: "Tailwind CSS" },
-    ],
-  },
-  {
-    label: "Backend",
-    skills: [
-      { icon: NodeIcon, name: "Node.js" },
-      { icon: ExpressIcon, name: "Express" },
-      { icon: FastifyIcon, name: "Fastify" },
-      { icon: PrismaIcon, name: "Prisma" },
-      { icon: JWTIcon, name: "JWT" },
-    ],
-  },
-  {
-    label: "Banco de Dados",
-    skills: [
-      { icon: PostgreSQLIcon, name: "PostgreSQL" },
-      { icon: MongoDBIcon, name: "MongoDB" },
-      { icon: MySQLIcon, name: "MySQL" },
-    ],
-  },
-  {
-    label: "DevOps & Ferramentas",
-    skills: [
-      { icon: DockerIcon, name: "Docker" },
-      { icon: GitIcon, name: "Git" },
-      { icon: LinuxIcon, name: "Linux" },
-      { icon: SwaggerIcon, name: "Swagger" },
-      { icon: InsomniaIcon, name: "Insomnia" },
-      { icon: FigmaIcon, name: "Figma" },
-    ],
-  },
-];
+---
 
-// Mantido para compatibilidade
-export const arrSkills: SkillType[] = skillCategories.flatMap((c) => c.skills);
+## Tech Stack
 
-export const arrEducation: Education[] = [
-  {
-    institution: "UNIFESSPA",
-    degree: "Bacharelado em Sistemas de Informação",
-    duration: "2023 — Presente",
-    logo: "/src/works/Logo_Unifesspa.png",
-    description:
-      "Universidade Federal do Sul e Sudeste do Pará. Cursando Sistemas de Informação com foco em desenvolvimento de software, algoritmos, banco de dados e engenharia de software.",
-  },
-];
+<div align="center">
 
-export const currentlyLearning: string[] = [
-  "Next.js App Router",
-  "Testes com Vitest & Testing Library",
-  "AWS Cloud Foundations",
-  "SQL avançado & Performance",
-];
+### Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+### Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
+
+---
+
+## Conecte-se comigo
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-end-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelangelo-costa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelangeloed@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michelangelo-Costa)
+
+</div>
+
+---
+
+<div align="center">
+
+### Visitantes
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMichelangelo-Costa&label=VISITANTES&labelColor=%230D1117&countColor=%2338BDF8)
+
+*"Transformando ideias em experiências online incríveis"*
+
+</div>
