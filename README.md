@@ -15,8 +15,7 @@ const michelangelo = {
     location: "Marabá, PA 📍",
     education: "Sistemas de Informação @ UNIFESSPA",
     currentRole: "Full Stack Developer @ PET-Saúde Digital",
-    building: ["APIs REST", "SPAs", "sistemas de saúde pública"],
-    funFact: "Transformo café em código ☕ → 💻"
+    building: ["APIs REST", "SPAs", "sistemas de saúde pública"]
 };
 ```
 
